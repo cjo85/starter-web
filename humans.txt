@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Colin Oliver    colin@oliver.cc
 
 # THANKS
 
