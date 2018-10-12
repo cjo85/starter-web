@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2018 GIt.Traning
+2018 GIt.Traning. All rights reserved.
