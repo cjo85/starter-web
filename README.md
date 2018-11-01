@@ -21,3 +21,7 @@ Please fork this repository and then issue Pull Requests for review.
 ### Copyright
 
 2018 GIt.Traning. All rights reserved.
+
+### Updates for compare branch example
+
+Hello World
